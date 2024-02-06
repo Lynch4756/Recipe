@@ -1,0 +1,60 @@
+
+
+.title{
+    font-family: helvetica;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    background-image: url(/index.html/resources/photos/CCPC.jpg);
+}
+
+.cover{
+    border: 2px solid hsl(0, 0, 0,);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+    
+
+}
+
+
+h3{
+    font-family: helvetica;
+    display: inline-block;
+    margin:0px 125px;
+
+}
+ 
+.ingr{
+    background-color:hsl(16, 42%, 42%) !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: hsl(40, 100%, 50%)!important ;
+    line-height: 40px;
+    font-weight: bold;
+    
+
+}
+
+.inst{
+    background-color:hsl(16, 42%, 42%) !important;
+}
+
+ol{
+    line-height: 50px;
+    font-size: 20px;
+    background-color: hsl(40, 100%, 50%) !important;
+    font-family: helvetica;
+    font-weight: bold;
+    list-style-type: upper-roman
+    
+}
+
+
+    
+

@@ -6,6 +6,7 @@
     text-align: center;
     width: 100%;
     background-image: url(/index.html/resources/photos/CCPC.jpg);
+    max-width: stretch;
 }
 
 .cover{
@@ -17,24 +18,29 @@
     
 
 }
+#cook{
 
+    display:inline-block;
+    margin:auto;
 
-h3{
+}
+
+#cook, h3{
     font-family: helvetica;
-    display: inline-block;
-    margin:0px 125px;
-
+    text-align: center;
+    
+    
 }
  
 .ingr{
-    background-color:hsl(16, 42%, 42%) !important;
+    background-color:hsl(16, 42%, 42%) ;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 ul{
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
-    background-color: hsl(40, 100%, 50%)!important ;
+    background-color: hsl(40, 100%, 50%) ;
     line-height: 40px;
     font-weight: bold;
     
@@ -42,19 +48,23 @@ ul{
 }
 
 .inst{
-    background-color:hsl(16, 42%, 42%) !important;
+    background-color:hsl(16, 42%, 42%) ;
 }
 
 ol{
     line-height: 50px;
     font-size: 20px;
-    background-color: hsl(40, 100%, 50%) !important;
+    background-color: hsl(40, 100%, 50%);
     font-family: helvetica;
     font-weight: bold;
     list-style-type: upper-roman
     
 }
 
-
+table{
+    width: 100px;
+    text-align: center;
+    
+}
     
 
